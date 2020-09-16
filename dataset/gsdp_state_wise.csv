@@ -1,0 +1,341 @@
+gsdp_year,gsdp_region,gsdp_in_crores
+2012,india,8736039
+2013,india,9946636
+2014,india,11236635
+2015,india,12433749
+2016,india,13675331
+2017,india,15251028
+2018,india,17095005
+2019,india,19010164
+2020,india,21152181
+2021,india,22281925
+2012,andhra pradesh,379402
+2013,andhra pradesh,411404
+2014,andhra pradesh,464272
+2015,andhra pradesh,524976
+2016,andhra pradesh,604229
+2017,andhra pradesh,697508
+2018,andhra pradesh,809547
+2019,andhra pradesh,933402
+2020,andhra pradesh,1080657
+2021,andhra pradesh,1092329
+2012,arunachal pradesh,"11,063"
+2013,arunachal pradesh,"12,547"
+2014,arunachal pradesh,"14,581"
+2015,arunachal pradesh,"17,959"
+2016,arunachal pradesh,"18,509"
+2017,arunachal pradesh,"19,627"
+2018,arunachal pradesh,"22,045"
+2019,arunachal pradesh,"23,909"
+2020,arunachal pradesh,"25,732"
+2021,arunachal pradesh,"27,555"
+2012,assam,143175
+2013,assam,156864
+2014,assam,177745
+2015,assam,195723
+2016,assam,227959
+2017,assam,254478
+2018,assam,288494
+2019,assam,322510
+2020,assam,374096
+2021,assam,408112
+2012,bihar,247144
+2013,bihar,282368
+2014,bihar,317101
+2015,bihar,342951
+2016,bihar,371602
+2017,bihar,422316
+2018,bihar,484740
+2019,bihar,557490
+2020,bihar,572827
+2021,bihar,611732
+2012,chhattisgarh,158074
+2013,chhattisgarh,177511
+2014,chhattisgarh,206833
+2015,chhattisgarh,221118
+2016,chhattisgarh,227383
+2017,chhattisgarh,254722
+2018,chhattisgarh,284194
+2019,chhattisgarh,311660
+2020,chhattisgarh,363900
+2021,chhattisgarh,382883
+2012,goa,"42,367"
+2013,goa,"38,120"
+2014,goa,"35,921"
+2015,goa,"47,814"
+2016,goa,"55,054"
+2017,goa,"63,460"
+2018,goa,"70,493"
+2019,goa,"77,172"
+2020,goa,"80,337"
+2021,goa,"86,234"
+2012,gujarat,615606
+2013,gujarat,724495
+2014,gujarat,807623
+2015,gujarat,921773
+2016,gujarat,1029010
+2017,gujarat,1153327
+2018,gujarat,1314680
+2019,gujarat,1499013
+2020,gujarat,1701495
+2021,gujarat,1744622
+2012,haryana,297539
+2013,haryana,347032
+2014,haryana,399268
+2015,haryana,437145
+2016,haryana,495249
+2017,haryana,556325
+2018,haryana,626054
+2019,haryana,707126
+2020,haryana,784910
+2021,haryana,816948
+2012,himachal pradesh,"72,720"
+2013,himachal pradesh,"82,820"
+2014,himachal pradesh,"94,764"
+2015,himachal pradesh,103772
+2016,himachal pradesh,114239
+2017,himachal pradesh,125634
+2018,himachal pradesh,140613
+2019,himachal pradesh,153181
+2020,himachal pradesh,168972
+2021,himachal pradesh,"176,550"
+2012,jammu and kashmir,"78,256"
+2013,jammu and kashmir,"87,138"
+2014,jammu and kashmir,"95,619"
+2015,jammu and kashmir,"98,370"
+2016,jammu and kashmir,117168
+2017,jammu and kashmir,125379
+2018,jammu and kashmir,138488
+2019,jammu and kashmir,"145,592"
+2020,jammu and kashmir,"155,546"
+2021,jammu and kashmir,"165,501"
+2012,jharkhand,150918
+2013,jharkhand,174724
+2014,jharkhand,188567
+2015,jharkhand,218525
+2016,jharkhand,206613
+2017,jharkhand,236250
+2018,jharkhand,276243
+2019,jharkhand,307581
+2020,jharkhand,329726
+2021,jharkhand,383233
+2012,karnataka,584016
+2013,karnataka,606048
+2014,karnataka,695413
+2015,karnataka,816666
+2016,karnataka,913923
+2017,karnataka,1045168
+2018,karnataka,1209136
+2019,karnataka,1350257
+2020,karnataka,1535224
+2021,karnataka,1588303
+2012,kerala,364048
+2013,kerala,412313
+2014,kerala,465041
+2015,kerala,512564
+2016,kerala,561994
+2017,kerala,634871
+2018,kerala,700532
+2019,kerala,875514
+2020,kerala,864803
+2021,kerala,931234
+2012,madhya pradesh,315562
+2013,madhya pradesh,380925
+2014,madhya pradesh,439483
+2015,madhya pradesh,479939
+2016,madhya pradesh,541189
+2017,madhya pradesh,648849
+2018,madhya pradesh,728242
+2019,madhya pradesh,809327
+2020,madhya pradesh,962430
+2021,madhya pradesh,974475
+2012,maharashtra,1280369
+2013,maharashtra,1459629
+2014,maharashtra,1649647
+2015,maharashtra,1779138
+2016,maharashtra,1966147
+2017,maharashtra,2188532
+2018,maharashtra,2411600
+2019,maharashtra,2656551
+2020,maharashtra,2979556
+2021,maharashtra,3067975
+2012,manipur,"12,915"
+2013,manipur,"13,743"
+2014,manipur,"16,182"
+2015,manipur,"18,129"
+2016,manipur,"19,531"
+2017,manipur,"21,294"
+2018,manipur,"23,968"
+2019,manipur,"25,338"
+2020,manipur,"27,182"
+2021,manipur,"29,025"
+2012,meghalaya,"19,918"
+2013,meghalaya,"21,872"
+2014,meghalaya,"22,938"
+2015,meghalaya,"23,235"
+2016,meghalaya,"25,117"
+2017,meghalaya,"27,439"
+2018,meghalaya,"30,790"
+2019,meghalaya,"31,034"
+2020,meghalaya,"32,674"
+2021,meghalaya,"34,314"
+2012,mizoram,"7,259"
+2013,mizoram,"8,362"
+2014,mizoram,"10,293"
+2015,mizoram,"13,509"
+2016,mizoram,"15,139"
+2017,mizoram,"17,192"
+2018,mizoram,"19,457"
+2019,mizoram,"21,473"
+2020,mizoram,"23,583"
+2021,mizoram,"25,694"
+2012,nagaland,"12,177"
+2013,nagaland,"14,121"
+2014,nagaland,"16,612"
+2015,nagaland,"18,401"
+2016,nagaland,"19,524"
+2017,nagaland,"21,722"
+2018,nagaland,"24,281"
+2019,nagaland,"25,894"
+2020,nagaland,"27,838"
+2021,nagaland,"29,782"
+2012,odisha,230987
+2013,odisha,261700
+2014,odisha,296475
+2015,odisha,314250
+2016,odisha,328550
+2017,odisha,393808
+2018,odisha,436374
+2019,odisha,485376
+2020,odisha,540812
+2021,odisha,554510
+2012,punjab,266628
+2013,punjab,297734
+2014,punjab,332147
+2015,punjab,355102
+2016,punjab,390087
+2017,punjab,426988
+2018,punjab,479141
+2019,punjab,521861
+2020,punjab,577829
+2021,punjab,595534
+2012,rajasthan,434837
+2013,rajasthan,493551
+2014,rajasthan,561031
+2015,rajasthan,615642
+2016,rajasthan,681485
+2017,rajasthan,758809
+2018,rajasthan,835558
+2019,rajasthan,929124
+2020,rajasthan,976034
+2021,rajasthan,1045429
+2012,sikkim,"11,165"
+2013,sikkim,"12,338"
+2014,sikkim,"13,862"
+2015,sikkim,"15,407"
+2016,sikkim,"18,034"
+2017,sikkim,"20,687"
+2018,sikkim,"23,495"
+2019,sikkim,"26,786"
+2020,sikkim,"27,805"
+2021,sikkim,"30,046"
+2012,tamil nadu,751486
+2013,tamil nadu,854825
+2014,tamil nadu,968530
+2015,tamil nadu,1072678
+2016,tamil nadu,1176500
+2017,tamil nadu,1302639
+2018,tamil nadu,1461841
+2019,tamil nadu,1664159
+2020,tamil nadu,1854239
+2021,tamil nadu,2054000
+2012,telangana,359434
+2013,telangana,401594
+2014,telangana,451580
+2015,telangana,505849
+2016,telangana,577902
+2017,telangana,659033
+2018,telangana,753811
+2019,telangana,865688
+2020,telangana,969604
+2021,telangana,998605
+2012,tripura,"19,208"
+2013,tripura,"21,663"
+2014,tripura,"25,593"
+2015,tripura,"29,533"
+2016,tripura,"35,938"
+2017,tripura,"39,612"
+2018,tripura,"46,133"
+2019,tripura,"49,242"
+2020,tripura,"53,778"
+2021,tripura,"58,315"
+2012,uttar pradesh,724050
+2013,uttar pradesh,822393
+2014,uttar pradesh,940356
+2015,uttar pradesh,1011790
+2016,uttar pradesh,1137210
+2017,uttar pradesh,1248374
+2018,uttar pradesh,1376324
+2019,uttar pradesh,1542432
+2020,uttar pradesh,1579807
+2021,uttar pradesh,1791000
+2012,uttarakhand,115328
+2013,uttarakhand,131613
+2014,uttarakhand,149074
+2015,uttarakhand,161439
+2016,uttarakhand,177163
+2017,uttarakhand,195125
+2018,uttarakhand,222836
+2019,uttarakhand,245895
+2020,uttarakhand,263233
+2021,uttarakhand,277607
+2012,west bengal,520485
+2013,west bengal,591464
+2014,west bengal,676848
+2015,west bengal,718082
+2016,west bengal,797300
+2017,west bengal,872527
+2018,west bengal,999585
+2019,west bengal,1177586
+2020,west bengal,1314529
+2021,west bengal,1329916
+2012,andaman and nicobar islands,"3,978"
+2013,andaman and nicobar islands,"4,421"
+2014,andaman and nicobar islands,"5,023"
+2015,andaman and nicobar islands,"5,477"
+2016,andaman and nicobar islands,"6,032"
+2017,andaman and nicobar islands,"6,836"
+2018,andaman and nicobar islands,"7,871"
+2019,andaman and nicobar islands,"8,165"
+2020,andaman and nicobar islands,"8,790"
+2021,andaman and nicobar islands,"9,416"
+2012,chandigarh,"18,768"
+2013,chandigarh,"21,609"
+2014,chandigarh,"24,822"
+2015,chandigarh,"26,549"
+2016,chandigarh,"29,280"
+2017,chandigarh,"32,741"
+2018,chandigarh,"38,806"
+2019,chandigarh,"39,915"
+2020,chandigarh,"43,017"
+2021,chandigarh,"46,118"
+2012,delhi,343798
+2013,delhi,391388
+2014,delhi,443960
+2015,delhi,494803
+2016,delhi,550804
+2017,delhi,615605
+2018,delhi,690098
+2019,delhi,779652
+2020,delhi,812806
+2021,delhi,873704
+2012,puducherry,"16,818"
+2013,puducherry,"18,875"
+2014,puducherry,"21,870"
+2015,puducherry,"22,574"
+2016,puducherry,"26,617"
+2017,puducherry,"29,573"
+2018,puducherry,"32,962"
+2019,puducherry,"36,656"
+2020,puducherry,"38,410"
+2021,puducherry,"41,225"

@@ -1,0 +1,1255 @@
+population_year,population_region,population,population_type
+2011,india,1210855,total
+2012,india,1226731,total
+2013,india,1242607,total
+2014,india,1258483,total
+2015,india,1274359,total
+2016,india,1290235,total
+2017,india,1304457,total
+2018,india,1318678,total
+2019,india,1332900,total
+2020,india,1347121,total
+2021,india,1361343,total
+2011,india,623270,male
+2012,india,631285,male
+2013,india,639301,male
+2014,india,647316,male
+2015,india,655331,male
+2016,india,663346,male
+2017,india,670469,male
+2018,india,677591,male
+2019,india,684714,male
+2020,india,691836,male
+2021,india,698959,male
+2011,india,587585,female
+2012,india,595446,female
+2013,india,603306,female
+2014,india,611167,female
+2015,india,619028,female
+2016,india,626889,female
+2017,india,633988,female
+2018,india,641087,female
+2019,india,648186,female
+2020,india,655285,female
+2021,india,662384,female
+2011,jammu and kashmir,12267,total
+2012,jammu and kashmir,12393,total
+2013,jammu and kashmir,12519,total
+2014,jammu and kashmir,12645,total
+2015,jammu and kashmir,12771,total
+2016,jammu and kashmir,12897,total
+2017,jammu and kashmir,12999,total
+2018,jammu and kashmir,13101,total
+2019,jammu and kashmir,13203,total
+2020,jammu and kashmir,13305,total
+2021,jammu and kashmir,13408,total
+2011,jammu and kashmir,6484,male
+2012,jammu and kashmir,6545,male
+2013,jammu and kashmir,6606,male
+2014,jammu and kashmir,6667,male
+2015,jammu and kashmir,6728,male
+2016,jammu and kashmir,6789,male
+2017,jammu and kashmir,6837,male
+2018,jammu and kashmir,6885,male
+2019,jammu and kashmir,6933,male
+2020,jammu and kashmir,6982,male
+2021,jammu and kashmir,7030,male
+2011,jammu and kashmir,5783,female
+2012,jammu and kashmir,5848,female
+2013,jammu and kashmir,5913,female
+2014,jammu and kashmir,5978,female
+2015,jammu and kashmir,6043,female
+2016,jammu and kashmir,6108,female
+2017,jammu and kashmir,6162,female
+2018,jammu and kashmir,6216,female
+2019,jammu and kashmir,6270,female
+2020,jammu and kashmir,6324,female
+2021,jammu and kashmir,6378,female
+2011,himachal pradesh,6865,total
+2012,himachal pradesh,6923,total
+2013,himachal pradesh,6982,total
+2014,himachal pradesh,7041,total
+2015,himachal pradesh,7100,total
+2016,himachal pradesh,7158,total
+2017,himachal pradesh,7206,total
+2018,himachal pradesh,7253,total
+2019,himachal pradesh,7300,total
+2020,himachal pradesh,7347,total
+2021,himachal pradesh,7394,total
+2011,himachal pradesh,3482,male
+2012,himachal pradesh,3512,male
+2013,himachal pradesh,3541,male
+2014,himachal pradesh,3571,male
+2015,himachal pradesh,3601,male
+2016,himachal pradesh,3631,male
+2017,himachal pradesh,3654,male
+2018,himachal pradesh,3678,male
+2019,himachal pradesh,3702,male
+2020,himachal pradesh,3726,male
+2021,himachal pradesh,3750,male
+2011,himachal pradesh,3383,female
+2012,himachal pradesh,3412,female
+2013,himachal pradesh,3441,female
+2014,himachal pradesh,3470,female
+2015,himachal pradesh,3499,female
+2016,himachal pradesh,3528,female
+2017,himachal pradesh,3551,female
+2018,himachal pradesh,3574,female
+2019,himachal pradesh,3598,female
+2020,himachal pradesh,3621,female
+2021,himachal pradesh,3644,female
+2011,punjab,27743,total
+2012,punjab,28023,total
+2013,punjab,28302,total
+2014,punjab,28581,total
+2015,punjab,28861,total
+2016,punjab,29140,total
+2017,punjab,29380,total
+2018,punjab,29619,total
+2019,punjab,29859,total
+2020,punjab,30099,total
+2021,punjab,30339,total
+2011,punjab,14639,male
+2012,punjab,14781,male
+2013,punjab,14923,male
+2014,punjab,15064,male
+2015,punjab,15206,male
+2016,punjab,15347,male
+2017,punjab,15467,male
+2018,punjab,15586,male
+2019,punjab,15705,male
+2020,punjab,15824,male
+2021,punjab,15943,male
+2011,punjab,13104,female
+2012,punjab,13242,female
+2013,punjab,13379,female
+2014,punjab,13517,female
+2015,punjab,13655,female
+2016,punjab,13793,female
+2017,punjab,13913,female
+2018,punjab,14034,female
+2019,punjab,14154,female
+2020,punjab,14275,female
+2021,punjab,14395,female
+2011,haryana,25351,total
+2012,haryana,25772,total
+2013,haryana,26193,total
+2014,haryana,26614,total
+2015,haryana,27034,total
+2016,haryana,27455,total
+2017,haryana,27861,total
+2018,haryana,28266,total
+2019,haryana,28672,total
+2020,haryana,29077,total
+2021,haryana,29483,total
+2011,haryana,13495,male
+2012,haryana,13713,male
+2013,haryana,13931,male
+2014,haryana,14149,male
+2015,haryana,14367,male
+2016,haryana,14585,male
+2017,haryana,14793,male
+2018,haryana,15000,male
+2019,haryana,15208,male
+2020,haryana,15415,male
+2021,haryana,15623,male
+2011,haryana,11857,female
+2012,haryana,12059,female
+2013,haryana,12262,female
+2014,haryana,12465,female
+2015,haryana,12667,female
+2016,haryana,12870,female
+2017,haryana,13068,female
+2018,haryana,13266,female
+2019,haryana,13464,female
+2020,haryana,13662,female
+2021,haryana,13860,female
+2011,delhi,16788,total
+2012,delhi,17166,total
+2013,delhi,17544,total
+2014,delhi,17921,total
+2015,delhi,18299,total
+2016,delhi,18677,total
+2017,delhi,19056,total
+2018,delhi,19435,total
+2019,delhi,19814,total
+2020,delhi,20193,total
+2021,delhi,20571,total
+2011,delhi,8987,male
+2012,delhi,9186,male
+2013,delhi,9385,male
+2014,delhi,9583,male
+2015,delhi,9782,male
+2016,delhi,9980,male
+2017,delhi,10177,male
+2018,delhi,10373,male
+2019,delhi,10570,male
+2020,delhi,10766,male
+2021,delhi,10963,male
+2011,delhi,7801,female
+2012,delhi,7980,female
+2013,delhi,8159,female
+2014,delhi,8338,female
+2015,delhi,8517,female
+2016,delhi,8697,female
+2017,delhi,8879,female
+2018,delhi,9061,female
+2019,delhi,9244,female
+2020,delhi,9426,female
+2021,delhi,9609,female
+2011,rajasthan,68548,total
+2012,rajasthan,69687,total
+2013,rajasthan,70825,total
+2014,rajasthan,71963,total
+2015,rajasthan,73102,total
+2016,rajasthan,74240,total
+2017,rajasthan,75248,total
+2018,rajasthan,76256,total
+2019,rajasthan,77264,total
+2020,rajasthan,78273,total
+2021,rajasthan,79281,total
+2011,rajasthan,35551,male
+2012,rajasthan,36111,male
+2013,rajasthan,36670,male
+2014,rajasthan,37230,male
+2015,rajasthan,37790,male
+2016,rajasthan,38350,male
+2017,rajasthan,38834,male
+2018,rajasthan,39318,male
+2019,rajasthan,39803,male
+2020,rajasthan,40287,male
+2021,rajasthan,40772,male
+2011,rajasthan,32997,female
+2012,rajasthan,33576,female
+2013,rajasthan,34155,female
+2014,rajasthan,34733,female
+2015,rajasthan,35312,female
+2016,rajasthan,35890,female
+2017,rajasthan,36414,female
+2018,rajasthan,36938,female
+2019,rajasthan,37462,female
+2020,rajasthan,37985,female
+2021,rajasthan,38509,female
+2011,uttar pradesh,199812,total
+2012,uttar pradesh,203067,total
+2013,uttar pradesh,206322,total
+2014,uttar pradesh,209577,total
+2015,uttar pradesh,212832,total
+2016,uttar pradesh,216087,total
+2017,uttar pradesh,219051,total
+2018,uttar pradesh,222015,total
+2019,uttar pradesh,224979,total
+2020,uttar pradesh,227943,total
+2021,uttar pradesh,230907,total
+2011,uttar pradesh,104481,male
+2012,uttar pradesh,106146,male
+2013,uttar pradesh,107812,male
+2014,uttar pradesh,109477,male
+2015,uttar pradesh,111143,male
+2016,uttar pradesh,112809,male
+2017,uttar pradesh,114316,male
+2018,uttar pradesh,115823,male
+2019,uttar pradesh,117330,male
+2020,uttar pradesh,118837,male
+2021,uttar pradesh,120344,male
+2011,uttar pradesh,95332,female
+2012,uttar pradesh,96921,female
+2013,uttar pradesh,98510,female
+2014,uttar pradesh,100099,female
+2015,uttar pradesh,101689,female
+2016,uttar pradesh,103278,female
+2017,uttar pradesh,104735,female
+2018,uttar pradesh,106192,female
+2019,uttar pradesh,107649,female
+2020,uttar pradesh,109106,female
+2021,uttar pradesh,110563,female
+2011,bihar,104099,total
+2012,bihar,106115,total
+2013,bihar,108130,total
+2014,bihar,110145,total
+2015,bihar,112161,total
+2016,bihar,114176,total
+2017,bihar,115957,total
+2018,bihar,117739,total
+2019,bihar,119520,total
+2020,bihar,121302,total
+2021,bihar,123083,total
+2011,bihar,54278,male
+2012,bihar,55317,male
+2013,bihar,56356,male
+2014,bihar,57395,male
+2015,bihar,58434,male
+2016,bihar,59473,male
+2017,bihar,60381,male
+2018,bihar,61289,male
+2019,bihar,62196,male
+2020,bihar,63104,male
+2021,bihar,64012,male
+2011,bihar,49821,female
+2012,bihar,50798,female
+2013,bihar,51774,female
+2014,bihar,52750,female
+2015,bihar,53727,female
+2016,bihar,54703,female
+2017,bihar,55577,female
+2018,bihar,56450,female
+2019,bihar,57324,female
+2020,bihar,58197,female
+2021,bihar,59071,female
+2011,assam,31206,total
+2012,assam,31598,total
+2013,assam,31991,total
+2014,assam,32383,total
+2015,assam,32776,total
+2016,assam,33168,total
+2017,assam,33543,total
+2018,assam,33918,total
+2019,assam,34293,total
+2020,assam,34668,total
+2021,assam,35043,total
+2011,assam,15939,male
+2012,assam,16135,male
+2013,assam,16330,male
+2014,assam,16525,male
+2015,assam,16720,male
+2016,assam,16915,male
+2017,assam,17100,male
+2018,assam,17286,male
+2019,assam,17472,male
+2020,assam,17657,male
+2021,assam,17843,male
+2011,assam,15266,female
+2012,assam,15464,female
+2013,assam,15661,female
+2014,assam,15858,female
+2015,assam,16056,female
+2016,assam,16253,female
+2017,assam,16443,female
+2018,assam,16632,female
+2019,assam,16822,female
+2020,assam,17011,female
+2021,assam,17200,female
+2011,west bengal,91276,total
+2012,west bengal,92037,total
+2013,west bengal,92797,total
+2014,west bengal,93558,total
+2015,west bengal,94318,total
+2016,west bengal,95079,total
+2017,west bengal,95688,total
+2018,west bengal,96297,total
+2019,west bengal,96906,total
+2020,west bengal,97516,total
+2021,west bengal,98125,total
+2011,west bengal,46809,male
+2012,west bengal,47178,male
+2013,west bengal,47548,male
+2014,west bengal,47917,male
+2015,west bengal,48286,male
+2016,west bengal,48656,male
+2017,west bengal,48944,male
+2018,west bengal,49232,male
+2019,west bengal,49520,male
+2020,west bengal,49807,male
+2021,west bengal,50095,male
+2011,west bengal,44467,female
+2012,west bengal,44858,female
+2013,west bengal,45250,female
+2014,west bengal,45641,female
+2015,west bengal,46032,female
+2016,west bengal,46423,female
+2017,west bengal,46744,female
+2018,west bengal,47066,female
+2019,west bengal,47387,female
+2020,west bengal,47708,female
+2021,west bengal,48029,female
+2011,jharkhand,32988,total
+2012,jharkhand,33551,total
+2013,jharkhand,34113,total
+2014,jharkhand,34675,total
+2015,jharkhand,35238,total
+2016,jharkhand,35800,total
+2017,jharkhand,36334,total
+2018,jharkhand,36869,total
+2019,jharkhand,37403,total
+2020,jharkhand,37937,total
+2021,jharkhand,38471,total
+2011,jharkhand,16930,male
+2012,jharkhand,17216,male
+2013,jharkhand,17503,male
+2014,jharkhand,17789,male
+2015,jharkhand,18075,male
+2016,jharkhand,18361,male
+2017,jharkhand,18629,male
+2018,jharkhand,18897,male
+2019,jharkhand,19165,male
+2020,jharkhand,19433,male
+2021,jharkhand,19701,male
+2011,jharkhand,16058,female
+2012,jharkhand,16334,female
+2013,jharkhand,16610,female
+2014,jharkhand,16887,female
+2015,jharkhand,17163,female
+2016,jharkhand,17439,female
+2017,jharkhand,17705,female
+2018,jharkhand,17972,female
+2019,jharkhand,18238,female
+2020,jharkhand,18504,female
+2021,jharkhand,18770,female
+2011,odisha,41974,total
+2012,odisha,42205,total
+2013,odisha,42436,total
+2014,odisha,42667,total
+2015,odisha,42897,total
+2016,odisha,43128,total
+2017,odisha,43309,total
+2018,odisha,43490,total
+2019,odisha,43671,total
+2020,odisha,43852,total
+2021,odisha,44033,total
+2011,odisha,21212,male
+2012,odisha,21238,male
+2013,odisha,21264,male
+2014,odisha,21290,male
+2015,odisha,21315,male
+2016,odisha,21341,male
+2017,odisha,21341,male
+2018,odisha,21341,male
+2019,odisha,21340,male
+2020,odisha,21340,male
+2021,odisha,21340,male
+2011,odisha,20762,female
+2012,odisha,20967,female
+2013,odisha,21172,female
+2014,odisha,21377,female
+2015,odisha,21582,female
+2016,odisha,21787,female
+2017,odisha,21968,female
+2018,odisha,22149,female
+2019,odisha,22331,female
+2020,odisha,22512,female
+2021,odisha,22693,female
+2011,chhattisgarh,25545,total
+2012,chhattisgarh,25950,total
+2013,chhattisgarh,26356,total
+2014,chhattisgarh,26761,total
+2015,chhattisgarh,27166,total
+2016,chhattisgarh,27571,total
+2017,chhattisgarh,27956,total
+2018,chhattisgarh,28340,total
+2019,chhattisgarh,28724,total
+2020,chhattisgarh,29109,total
+2021,chhattisgarh,29493,total
+2011,chhattisgarh,12833,male
+2012,chhattisgarh,13033,male
+2013,chhattisgarh,13233,male
+2014,chhattisgarh,13434,male
+2015,chhattisgarh,13634,male
+2016,chhattisgarh,13834,male
+2017,chhattisgarh,14026,male
+2018,chhattisgarh,14218,male
+2019,chhattisgarh,14410,male
+2020,chhattisgarh,14602,male
+2021,chhattisgarh,14794,male
+2011,chhattisgarh,12712,female
+2012,chhattisgarh,12917,female
+2013,chhattisgarh,13122,female
+2014,chhattisgarh,13327,female
+2015,chhattisgarh,13532,female
+2016,chhattisgarh,13738,female
+2017,chhattisgarh,13930,female
+2018,chhattisgarh,14122,female
+2019,chhattisgarh,14314,female
+2020,chhattisgarh,14506,female
+2021,chhattisgarh,14698,female
+2011,madhya pradesh,72627,total
+2012,madhya pradesh,73863,total
+2013,madhya pradesh,75099,total
+2014,madhya pradesh,76334,total
+2015,madhya pradesh,77570,total
+2016,madhya pradesh,78806,total
+2017,madhya pradesh,79948,total
+2018,madhya pradesh,81090,total
+2019,madhya pradesh,82232,total
+2020,madhya pradesh,83374,total
+2021,madhya pradesh,84516,total
+2011,madhya pradesh,37612,male
+2012,madhya pradesh,38237,male
+2013,madhya pradesh,38862,male
+2014,madhya pradesh,39487,male
+2015,madhya pradesh,40112,male
+2016,madhya pradesh,40737,male
+2017,madhya pradesh,41312,male
+2018,madhya pradesh,41886,male
+2019,madhya pradesh,42460,male
+2020,madhya pradesh,43035,male
+2021,madhya pradesh,43609,male
+2011,madhya pradesh,35015,female
+2012,madhya pradesh,35625,female
+2013,madhya pradesh,36236,female
+2014,madhya pradesh,36847,female
+2015,madhya pradesh,37458,female
+2016,madhya pradesh,38069,female
+2017,madhya pradesh,38637,female
+2018,madhya pradesh,39204,female
+2019,madhya pradesh,39772,female
+2020,madhya pradesh,40339,female
+2021,madhya pradesh,40907,female
+2011,gujarat,60440,total
+2012,gujarat,61383,total
+2013,gujarat,62327,total
+2014,gujarat,63271,total
+2015,gujarat,64214,total
+2016,gujarat,65158,total
+2017,gujarat,66084,total
+2018,gujarat,67010,total
+2019,gujarat,67936,total
+2020,gujarat,68862,total
+2021,gujarat,69788,total
+2011,gujarat,31491,male
+2012,gujarat,32007,male
+2013,gujarat,32523,male
+2014,gujarat,33039,male
+2015,gujarat,33555,male
+2016,gujarat,34071,male
+2017,gujarat,34577,male
+2018,gujarat,35083,male
+2019,gujarat,35588,male
+2020,gujarat,36094,male
+2021,gujarat,36600,male
+2011,gujarat,28948,female
+2012,gujarat,29376,female
+2013,gujarat,29804,female
+2014,gujarat,30232,female
+2015,gujarat,30659,female
+2016,gujarat,31087,female
+2017,gujarat,31507,female
+2018,gujarat,31927,female
+2019,gujarat,32347,female
+2020,gujarat,32768,female
+2021,gujarat,33188,female
+2011,maharashtra,"1,12,374",total
+2012,maharashtra,"1,13,645",total
+2013,maharashtra,"1,14,915",total
+2014,maharashtra,"1,16,186",total
+2015,maharashtra,"1,17,456",total
+2016,maharashtra,"1,18,727",total
+2017,maharashtra,"1,19,869",total
+2018,maharashtra,"1,21,011",total
+2019,maharashtra,"1,22,153",total
+2020,maharashtra,"1,23,295",total
+2021,maharashtra,"1,24,437",total
+2011,maharashtra,58243,male
+2012,maharashtra,58924,male
+2013,maharashtra,59606,male
+2014,maharashtra,60287,male
+2015,maharashtra,60968,male
+2016,maharashtra,61649,male
+2017,maharashtra,62260,male
+2018,maharashtra,62870,male
+2019,maharashtra,63481,male
+2020,maharashtra,64091,male
+2021,maharashtra,64702,male
+2011,maharashtra,54131,female
+2012,maharashtra,54721,female
+2013,maharashtra,55310,female
+2014,maharashtra,55899,female
+2015,maharashtra,56488,female
+2016,maharashtra,57078,female
+2017,maharashtra,57609,female
+2018,maharashtra,58140,female
+2019,maharashtra,58672,female
+2020,maharashtra,59203,female
+2021,maharashtra,59735,female
+2011,andhra pradesh,49577,total
+2012,andhra pradesh,49936,total
+2013,andhra pradesh,50295,total
+2014,andhra pradesh,50654,total
+2015,andhra pradesh,51012,total
+2016,andhra pradesh,51371,total
+2017,andhra pradesh,51655,total
+2018,andhra pradesh,51938,total
+2019,andhra pradesh,52221,total
+2020,andhra pradesh,52504,total
+2021,andhra pradesh,52787,total
+2011,andhra pradesh,24831,male
+2012,andhra pradesh,25006,male
+2013,andhra pradesh,25182,male
+2014,andhra pradesh,25358,male
+2015,andhra pradesh,25534,male
+2016,andhra pradesh,25710,male
+2017,andhra pradesh,25849,male
+2018,andhra pradesh,25987,male
+2019,andhra pradesh,26126,male
+2020,andhra pradesh,26265,male
+2021,andhra pradesh,26403,male
+2011,andhra pradesh,24747,female
+2012,andhra pradesh,24929,female
+2013,andhra pradesh,25112,female
+2014,andhra pradesh,25295,female
+2015,andhra pradesh,25478,female
+2016,andhra pradesh,25661,female
+2017,andhra pradesh,25806,female
+2018,andhra pradesh,25950,female
+2019,andhra pradesh,26095,female
+2020,andhra pradesh,26240,female
+2021,andhra pradesh,26384,female
+2011,karnataka,61095,total
+2012,karnataka,61722,total
+2013,karnataka,62349,total
+2014,karnataka,62975,total
+2015,karnataka,63602,total
+2016,karnataka,64229,total
+2017,karnataka,64752,total
+2018,karnataka,65275,total
+2019,karnataka,65798,total
+2020,karnataka,66322,total
+2021,karnataka,66845,total
+2011,karnataka,30967,male
+2012,karnataka,31287,male
+2013,karnataka,31607,male
+2014,karnataka,31927,male
+2015,karnataka,32247,male
+2016,karnataka,32567,male
+2017,karnataka,32836,male
+2018,karnataka,33105,male
+2019,karnataka,33374,male
+2020,karnataka,33642,male
+2021,karnataka,33911,male
+2011,karnataka,30129,female
+2012,karnataka,30435,female
+2013,karnataka,30742,female
+2014,karnataka,31048,female
+2015,karnataka,31355,female
+2016,karnataka,31661,female
+2017,karnataka,31916,female
+2018,karnataka,32170,female
+2019,karnataka,32425,female
+2020,karnataka,32679,female
+2021,karnataka,32934,female
+2011,kerala,33406,total
+2012,kerala,33641,total
+2013,kerala,33875,total
+2014,kerala,34109,total
+2015,kerala,34344,total
+2016,kerala,34578,total
+2017,kerala,34761,total
+2018,kerala,34943,total
+2019,kerala,35125,total
+2020,kerala,35307,total
+2021,kerala,35489,total
+2011,kerala,16027,male
+2012,kerala,16141,male
+2013,kerala,16254,male
+2014,kerala,16368,male
+2015,kerala,16481,male
+2016,kerala,16594,male
+2017,kerala,16684,male
+2018,kerala,16774,male
+2019,kerala,16863,male
+2020,kerala,16953,male
+2021,kerala,17043,male
+2011,kerala,17379,female
+2012,kerala,17500,female
+2013,kerala,17621,female
+2014,kerala,17742,female
+2015,kerala,17863,female
+2016,kerala,17984,female
+2017,kerala,18077,female
+2018,kerala,18169,female
+2019,kerala,18262,female
+2020,kerala,18354,female
+2021,kerala,18447,female
+2011,tamil nadu,72147,total
+2012,tamil nadu,72645,total
+2013,tamil nadu,73142,total
+2014,tamil nadu,73640,total
+2015,tamil nadu,74137,total
+2016,tamil nadu,74635,total
+2017,tamil nadu,74989,total
+2018,tamil nadu,75342,total
+2019,tamil nadu,75695,total
+2020,tamil nadu,76049,total
+2021,tamil nadu,76402,total
+2011,tamil nadu,36138,male
+2012,tamil nadu,36379,male
+2013,tamil nadu,36619,male
+2014,tamil nadu,36860,male
+2015,tamil nadu,37101,male
+2016,tamil nadu,37342,male
+2017,tamil nadu,37506,male
+2018,tamil nadu,37671,male
+2019,tamil nadu,37836,male
+2020,tamil nadu,38000,male
+2021,tamil nadu,38165,male
+2011,tamil nadu,36009,female
+2012,tamil nadu,36266,female
+2013,tamil nadu,36523,female
+2014,tamil nadu,36780,female
+2015,tamil nadu,37037,female
+2016,tamil nadu,37294,female
+2017,tamil nadu,37482,female
+2018,tamil nadu,37671,female
+2019,tamil nadu,37860,female
+2020,tamil nadu,38049,female
+2021,tamil nadu,38237,female
+2011,chandigarh,1055,total
+2012,chandigarh,1072,total
+2013,chandigarh,1088,total
+2014,chandigarh,1104,total
+2015,chandigarh,1120,total
+2016,chandigarh,1136,total
+2017,chandigarh,1151,total
+2018,chandigarh,1165,total
+2019,chandigarh,1179,total
+2020,chandigarh,1193,total
+2021,chandigarh,1208,total
+2011,chandigarh,581,male
+2012,chandigarh,589,male
+2013,chandigarh,596,male
+2014,chandigarh,604,male
+2015,chandigarh,612,male
+2016,chandigarh,620,male
+2017,chandigarh,627,male
+2018,chandigarh,633,male
+2019,chandigarh,640,male
+2020,chandigarh,647,male
+2021,chandigarh,654,male
+2011,chandigarh,475,female
+2012,chandigarh,483,female
+2013,chandigarh,491,female
+2014,chandigarh,500,female
+2015,chandigarh,508,female
+2016,chandigarh,516,female
+2017,chandigarh,524,female
+2018,chandigarh,531,female
+2019,chandigarh,539,female
+2020,chandigarh,546,female
+2021,chandigarh,554,female
+2011,uttarakhand,10086,total
+2012,uttarakhand,10220,total
+2013,uttarakhand,10354,total
+2014,uttarakhand,10487,total
+2015,uttarakhand,10621,total
+2016,uttarakhand,10755,total
+2017,uttarakhand,10884,total
+2018,uttarakhand,11013,total
+2019,uttarakhand,11141,total
+2020,uttarakhand,11270,total
+2021,uttarakhand,11399,total
+2011,uttarakhand,5138,male
+2012,uttarakhand,5209,male
+2013,uttarakhand,5281,male
+2014,uttarakhand,5353,male
+2015,uttarakhand,5425,male
+2016,uttarakhand,5496,male
+2017,uttarakhand,5565,male
+2018,uttarakhand,5634,male
+2019,uttarakhand,5702,male
+2020,uttarakhand,5771,male
+2021,uttarakhand,5840,male
+2011,uttarakhand,4949,female
+2012,uttarakhand,5010,female
+2013,uttarakhand,5072,female
+2014,uttarakhand,5134,female
+2015,uttarakhand,5196,female
+2016,uttarakhand,5258,female
+2017,uttarakhand,5319,female
+2018,uttarakhand,5379,female
+2019,uttarakhand,5439,female
+2020,uttarakhand,5499,female
+2021,uttarakhand,5560,female
+2011,sikkim,611,total
+2012,sikkim,617,total
+2013,sikkim,624,total
+2014,sikkim,631,total
+2015,sikkim,637,total
+2016,sikkim,644,total
+2017,sikkim,650,total
+2018,sikkim,657,total
+2019,sikkim,664,total
+2020,sikkim,670,total
+2021,sikkim,677,total
+2011,sikkim,323,male
+2012,sikkim,327,male
+2013,sikkim,330,male
+2014,sikkim,333,male
+2015,sikkim,337,male
+2016,sikkim,340,male
+2017,sikkim,344,male
+2018,sikkim,347,male
+2019,sikkim,350,male
+2020,sikkim,354,male
+2021,sikkim,357,male
+2011,sikkim,288,female
+2012,sikkim,291,female
+2013,sikkim,294,female
+2014,sikkim,297,female
+2015,sikkim,300,female
+2016,sikkim,304,female
+2017,sikkim,307,female
+2018,sikkim,310,female
+2019,sikkim,313,female
+2020,sikkim,316,female
+2021,sikkim,320,female
+2011,arunachal pradesh,1384,total
+2012,arunachal pradesh,1399,total
+2013,arunachal pradesh,1414,total
+2014,arunachal pradesh,1429,total
+2015,arunachal pradesh,1444,total
+2016,arunachal pradesh,1459,total
+2017,arunachal pradesh,1474,total
+2018,arunachal pradesh,1489,total
+2019,arunachal pradesh,1504,total
+2020,arunachal pradesh,1519,total
+2021,arunachal pradesh,1533,total
+2011,arunachal pradesh,714,male
+2012,arunachal pradesh,722,male
+2013,arunachal pradesh,729,male
+2014,arunachal pradesh,737,male
+2015,arunachal pradesh,744,male
+2016,arunachal pradesh,752,male
+2017,arunachal pradesh,759,male
+2018,arunachal pradesh,767,male
+2019,arunachal pradesh,774,male
+2020,arunachal pradesh,781,male
+2021,arunachal pradesh,789,male
+2011,arunachal pradesh,670,female
+2012,arunachal pradesh,677,female
+2013,arunachal pradesh,685,female
+2014,arunachal pradesh,692,female
+2015,arunachal pradesh,700,female
+2016,arunachal pradesh,707,female
+2017,arunachal pradesh,715,female
+2018,arunachal pradesh,722,female
+2019,arunachal pradesh,730,female
+2020,arunachal pradesh,737,female
+2021,arunachal pradesh,745,female
+2011,nagaland,1979,total
+2012,nagaland,2000,total
+2013,nagaland,2022,total
+2014,nagaland,2043,total
+2015,nagaland,2065,total
+2016,nagaland,2086,total
+2017,nagaland,2108,total
+2018,nagaland,2129,total
+2019,nagaland,2150,total
+2020,nagaland,2171,total
+2021,nagaland,2192,total
+2011,nagaland,1025,male
+2012,nagaland,1036,male
+2013,nagaland,1046,male
+2014,nagaland,1057,male
+2015,nagaland,1068,male
+2016,nagaland,1079,male
+2017,nagaland,1090,male
+2018,nagaland,1100,male
+2019,nagaland,1111,male
+2020,nagaland,1121,male
+2021,nagaland,1132,male
+2011,nagaland,954,female
+2012,nagaland,965,female
+2013,nagaland,975,female
+2014,nagaland,986,female
+2015,nagaland,997,female
+2016,nagaland,1007,female
+2017,nagaland,1018,female
+2018,nagaland,1028,female
+2019,nagaland,1039,female
+2020,nagaland,1050,female
+2021,nagaland,1060,female
+2011,manipur,2856,total
+2012,manipur,2887,total
+2013,manipur,2918,total
+2014,manipur,2949,total
+2015,manipur,2980,total
+2016,manipur,3012,total
+2017,manipur,3042,total
+2018,manipur,3073,total
+2019,manipur,3103,total
+2020,manipur,3134,total
+2021,manipur,3165,total
+2011,manipur,1439,male
+2012,manipur,1454,male
+2013,manipur,1469,male
+2014,manipur,1485,male
+2015,manipur,1500,male
+2016,manipur,1515,male
+2017,manipur,1530,male
+2018,manipur,1545,male
+2019,manipur,1560,male
+2020,manipur,1575,male
+2021,manipur,1589,male
+2011,manipur,1417,female
+2012,manipur,1433,female
+2013,manipur,1449,female
+2014,manipur,1465,female
+2015,manipur,1481,female
+2016,manipur,1497,female
+2017,manipur,1512,female
+2018,manipur,1528,female
+2019,manipur,1544,female
+2020,manipur,1560,female
+2021,manipur,1575,female
+2011,mizoram,1097,total
+2012,mizoram,1109,total
+2013,mizoram,1121,total
+2014,mizoram,1133,total
+2015,mizoram,1145,total
+2016,mizoram,1157,total
+2017,mizoram,1169,total
+2018,mizoram,1181,total
+2019,mizoram,1192,total
+2020,mizoram,1204,total
+2021,mizoram,1216,total
+2011,mizoram,555,male
+2012,mizoram,561,male
+2013,mizoram,567,male
+2014,mizoram,573,male
+2015,mizoram,579,male
+2016,mizoram,585,male
+2017,mizoram,591,male
+2018,mizoram,596,male
+2019,mizoram,602,male
+2020,mizoram,608,male
+2021,mizoram,614,male
+2011,mizoram,542,female
+2012,mizoram,548,female
+2013,mizoram,554,female
+2014,mizoram,560,female
+2015,mizoram,566,female
+2016,mizoram,572,female
+2017,mizoram,578,female
+2018,mizoram,584,female
+2019,mizoram,590,female
+2020,mizoram,596,female
+2021,mizoram,602,female
+2011,tripura,3674,total
+2012,tripura,3714,total
+2013,tripura,3754,total
+2014,tripura,3794,total
+2015,tripura,3834,total
+2016,tripura,3874,total
+2017,tripura,3914,total
+2018,tripura,3953,total
+2019,tripura,3992,total
+2020,tripura,4032,total
+2021,tripura,4071,total
+2011,tripura,1874,male
+2012,tripura,1894,male
+2013,tripura,1914,male
+2014,tripura,1934,male
+2015,tripura,1954,male
+2016,tripura,1974,male
+2017,tripura,1993,male
+2018,tripura,2013,male
+2019,tripura,2032,male
+2020,tripura,2052,male
+2021,tripura,2071,male
+2011,tripura,1800,female
+2012,tripura,1820,female
+2013,tripura,1840,female
+2014,tripura,1860,female
+2015,tripura,1880,female
+2016,tripura,1900,female
+2017,tripura,1920,female
+2018,tripura,1940,female
+2019,tripura,1960,female
+2020,tripura,1980,female
+2021,tripura,2000,female
+2011,meghalaya,2967,total
+2012,meghalaya,2999,total
+2013,meghalaya,3032,total
+2014,meghalaya,3064,total
+2015,meghalaya,3096,total
+2016,meghalaya,3129,total
+2017,meghalaya,3161,total
+2018,meghalaya,3192,total
+2019,meghalaya,3224,total
+2020,meghalaya,3256,total
+2021,meghalaya,3288,total
+2011,meghalaya,1492,male
+2012,meghalaya,1508,male
+2013,meghalaya,1524,male
+2014,meghalaya,1539,male
+2015,meghalaya,1555,male
+2016,meghalaya,1571,male
+2017,meghalaya,1587,male
+2018,meghalaya,1602,male
+2019,meghalaya,1617,male
+2020,meghalaya,1633,male
+2021,meghalaya,1648,male
+2011,meghalaya,1475,female
+2012,meghalaya,1492,female
+2013,meghalaya,1508,female
+2014,meghalaya,1525,female
+2015,meghalaya,1541,female
+2016,meghalaya,1558,female
+2017,meghalaya,1574,female
+2018,meghalaya,1590,female
+2019,meghalaya,1607,female
+2020,meghalaya,1623,female
+2021,meghalaya,1640,female
+2011,dadra and nagar haveli and daman and diu,587,total
+2012,dadra and nagar haveli and daman and diu,625,total
+2013,dadra and nagar haveli and daman and diu,665,total
+2014,dadra and nagar haveli and daman and diu,704,total
+2015,dadra and nagar haveli and daman and diu,743,total
+2016,dadra and nagar haveli and daman and diu,781,total
+2017,dadra and nagar haveli and daman and diu,840,total
+2018,dadra and nagar haveli and daman and diu,900,total
+2019,dadra and nagar haveli and daman and diu,959,total
+2020,dadra and nagar haveli and daman and diu,1018,total
+2021,dadra and nagar haveli and daman and diu,1077,total
+2011,dadra and nagar haveli and daman and diu,344,male
+2012,dadra and nagar haveli and daman and diu,371,male
+2013,dadra and nagar haveli and daman and diu,398,male
+2014,dadra and nagar haveli and daman and diu,425,male
+2015,dadra and nagar haveli and daman and diu,451,male
+2016,dadra and nagar haveli and daman and diu,478,male
+2017,dadra and nagar haveli and daman and diu,521,male
+2018,dadra and nagar haveli and daman and diu,565,male
+2019,dadra and nagar haveli and daman and diu,607,male
+2020,dadra and nagar haveli and daman and diu,650,male
+2021,dadra and nagar haveli and daman and diu,693,male
+2011,dadra and nagar haveli and daman and diu,243,female
+2012,dadra and nagar haveli and daman and diu,255,female
+2013,dadra and nagar haveli and daman and diu,267,female
+2014,dadra and nagar haveli and daman and diu,279,female
+2015,dadra and nagar haveli and daman and diu,291,female
+2016,dadra and nagar haveli and daman and diu,303,female
+2017,dadra and nagar haveli and daman and diu,319,female
+2018,dadra and nagar haveli and daman and diu,336,female
+2019,dadra and nagar haveli and daman and diu,352,female
+2020,dadra and nagar haveli and daman and diu,368,female
+2021,dadra and nagar haveli and daman and diu,385,female
+2011,goa,1459,total
+2012,goa,1469,total
+2013,goa,1480,total
+2014,goa,1491,total
+2015,goa,1501,total
+2016,goa,1512,total
+2017,goa,1521,total
+2018,goa,1531,total
+2019,goa,1540,total
+2020,goa,1549,total
+2021,goa,1559,total
+2011,goa,739,male
+2012,goa,744,male
+2013,goa,749,male
+2014,goa,754,male
+2015,goa,759,male
+2016,goa,764,male
+2017,goa,769,male
+2018,goa,773,male
+2019,goa,777,male
+2020,goa,782,male
+2021,goa,786,male
+2011,goa,719,female
+2012,goa,725,female
+2013,goa,731,female
+2014,goa,736,female
+2015,goa,742,female
+2016,goa,748,female
+2017,goa,753,female
+2018,goa,758,female
+2019,goa,763,female
+2020,goa,768,female
+2021,goa,773,female
+2011,lakshadweep,64,total
+2012,lakshadweep,65,total
+2013,lakshadweep,65,total
+2014,lakshadweep,66,total
+2015,lakshadweep,66,total
+2016,lakshadweep,67,total
+2017,lakshadweep,67,total
+2018,lakshadweep,67,total
+2019,lakshadweep,68,total
+2020,lakshadweep,68,total
+2021,lakshadweep,68,total
+2011,lakshadweep,33,male
+2012,lakshadweep,33,male
+2013,lakshadweep,34,male
+2014,lakshadweep,34,male
+2015,lakshadweep,34,male
+2016,lakshadweep,34,male
+2017,lakshadweep,34,male
+2018,lakshadweep,35,male
+2019,lakshadweep,35,male
+2020,lakshadweep,35,male
+2021,lakshadweep,35,male
+2011,lakshadweep,31,female
+2012,lakshadweep,32,female
+2013,lakshadweep,32,female
+2014,lakshadweep,32,female
+2015,lakshadweep,32,female
+2016,lakshadweep,32,female
+2017,lakshadweep,32,female
+2018,lakshadweep,33,female
+2019,lakshadweep,33,female
+2020,lakshadweep,33,female
+2021,lakshadweep,33,female
+2011,puducherry,1248,total
+2012,puducherry,1279,total
+2013,puducherry,1310,total
+2014,puducherry,1340,total
+2015,puducherry,1371,total
+2016,puducherry,1402,total
+2017,puducherry,1436,total
+2018,puducherry,1470,total
+2019,puducherry,1504,total
+2020,puducherry,1537,total
+2021,puducherry,1571,total
+2011,puducherry,613,male
+2012,puducherry,626,male
+2013,puducherry,640,male
+2014,puducherry,653,male
+2015,puducherry,667,male
+2016,puducherry,680,male
+2017,puducherry,695,male
+2018,puducherry,709,male
+2019,puducherry,724,male
+2020,puducherry,738,male
+2021,puducherry,753,male
+2011,puducherry,635,female
+2012,puducherry,653,female
+2013,puducherry,670,female
+2014,puducherry,687,female
+2015,puducherry,704,female
+2016,puducherry,722,female
+2017,puducherry,741,female
+2018,puducherry,760,female
+2019,puducherry,780,female
+2020,puducherry,799,female
+2021,puducherry,819,female
+2011,"andaman and nicobar
+ islands",381,total
+2012,"andaman and nicobar
+ islands",383,total
+2013,"andaman and nicobar
+ islands",385,total
+2014,"andaman and nicobar
+ islands",387,total
+2015,"andaman and nicobar
+ islands",390,total
+2016,"andaman and nicobar
+ islands",392,total
+2017,"andaman and nicobar
+ islands",394,total
+2018,"andaman and nicobar
+ islands",395,total
+2019,"andaman and nicobar
+ islands",397,total
+2020,"andaman and nicobar
+ islands",399,total
+2021,"andaman and nicobar
+ islands",400,total
+2011,"andaman and nicobar
+ islands",203,male
+2012,"andaman and nicobar
+ islands",204,male
+2013,"andaman and nicobar
+ islands",205,male
+2014,"andaman and nicobar
+ islands",206,male
+2015,"andaman and nicobar
+ islands",207,male
+2016,"andaman and nicobar
+ islands",208,male
+2017,"andaman and nicobar
+ islands",208,male
+2018,"andaman and nicobar
+ islands",209,male
+2019,"andaman and nicobar
+ islands",210,male
+2020,"andaman and nicobar
+ islands",211,male
+2021,"andaman and nicobar
+ islands",211,male
+2011,"andaman and nicobar
+ islands",178,female
+2012,"andaman and nicobar
+ islands",179,female
+2013,"andaman and nicobar
+ islands",180,female
+2014,"andaman and nicobar
+ islands",182,female
+2015,"andaman and nicobar
+ islands",183,female
+2016,"andaman and nicobar
+ islands",184,female
+2017,"andaman and nicobar
+ islands",185,female
+2018,"andaman and nicobar
+ islands",186,female
+2019,"andaman and nicobar
+ islands",187,female
+2020,"andaman and nicobar
+ islands",188,female
+2021,"andaman and nicobar
+ islands",189,female
+2011,telangana,35004,total
+2012,telangana,35295,total
+2013,telangana,35587,total
+2014,telangana,35878,total
+2015,telangana,36170,total
+2016,telangana,36462,total
+2017,telangana,36714,total
+2018,telangana,36967,total
+2019,telangana,37220,total
+2020,telangana,37473,total
+2021,telangana,37725,total
+2011,telangana,17612,male
+2012,telangana,17758,male
+2013,telangana,17905,male
+2014,telangana,18052,male
+2015,telangana,18199,male
+2016,telangana,18346,male
+2017,telangana,18472,male
+2018,telangana,18599,male
+2019,telangana,18725,male
+2020,telangana,18852,male
+2021,telangana,18978,male
+2011,telangana,17392,female
+2012,telangana,17537,female
+2013,telangana,17682,female
+2014,telangana,17826,female
+2015,telangana,17971,female
+2016,telangana,18116,female
+2017,telangana,18242,female
+2018,telangana,18368,female
+2019,telangana,18495,female
+2020,telangana,18621,female
+2021,telangana,18747,female
+2011,ladakh,274,total
+2012,ladakh,277,total
+2013,ladakh,279,total
+2014,ladakh,282,total
+2015,ladakh,285,total
+2016,ladakh,287,total
+2017,ladakh,289,total
+2018,ladakh,291,total
+2019,ladakh,293,total
+2020,ladakh,295,total
+2021,ladakh,297,total
+2011,ladakh,157,male
+2012,ladakh,158,male
+2013,ladakh,159,male
+2014,ladakh,160,male
+2015,ladakh,162,male
+2016,ladakh,163,male
+2017,ladakh,164,male
+2018,ladakh,164,male
+2019,ladakh,165,male
+2020,ladakh,166,male
+2021,ladakh,167,male
+2011,ladakh,118,female
+2012,ladakh,119,female
+2013,ladakh,120,female
+2014,ladakh,122,female
+2015,ladakh,123,female
+2016,ladakh,125,female
+2017,ladakh,126,female
+2018,ladakh,127,female
+2019,ladakh,128,female
+2020,ladakh,129,female
+2021,ladakh,130,female
